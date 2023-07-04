@@ -7,7 +7,7 @@
 
 body{
     padding: 0;
-
+    scroll-behaviour: smooth;
     background: url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/05/24/10/istock-478624695.jpg');
 }
 
